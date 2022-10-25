@@ -2,10 +2,8 @@
 :root{
     --co1:#0597F2;
 }
-
 header{
     background-image: linear-gradient(to top,white,#05c7f2);
-
     text-align: center;
     margin: -20px;
 }
